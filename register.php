@@ -70,7 +70,7 @@
          <input id ="password" type="password" name="passWord" value = "<?php getInputValue('passWord')?>" placeholder="Your Password" required>
        </p>
        <p>
-         <label for="password">Confirm Password</label>
+         <label for="password2">Confirm Password</label>
          <input id="password2" type="password" name="passWord2" value = "<?php getInputValue('passWord2')?>" placeholder="Confirm Your Password" required>
        </p>
        <button type="submit" name="registerButton">Sgin Up</button>
